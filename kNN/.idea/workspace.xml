@@ -26,10 +26,19 @@
       <file leaf-file-name="kNN.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="33" selection-start="769" selection-end="769" vertical-scroll-proportion="0.50735295" vertical-offset="0" max-vertical-offset="680">
+            <state line="38" column="14" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.5790251" vertical-offset="178" max-vertical-offset="855">
               <folding>
                 <element signature="e#26#45#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kNN.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../资料/machinelearninginaction/Ch02/kNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1665">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,10 +58,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
+    <option name="x" value="40" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
-    <option name="height" value="803" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -106,11 +115,11 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -202,6 +211,9 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,9 +235,6 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -297,7 +306,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="23" width="1400" height="803" extended-state="0" />
+    <frame x="40" y="23" width="1400" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -305,7 +314,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -334,6 +343,33 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/kNN.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="570">
+          <folding>
+            <element signature="e#26#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="33" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="525">
+          <folding>
+            <element signature="e#26#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="465">
+          <folding>
+            <element signature="e#26#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="50" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="420">
           <folding>
             <element signature="e#26#45#0" expanded="true" />
@@ -343,12 +379,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../资料/machinelearninginaction/Ch02/kNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1665" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1665">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="33" selection-start="769" selection-end="769" vertical-scroll-proportion="0.50735295" vertical-offset="0" max-vertical-offset="680">
+        <state line="38" column="14" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.5790251" vertical-offset="178" max-vertical-offset="855">
           <folding>
             <element signature="e#26#45#0" expanded="true" />
           </folding>
